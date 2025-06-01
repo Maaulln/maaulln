@@ -1,7 +1,5 @@
-# Hi there, I'm Maaulln! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Passionate+Developer+from+Malang;Always+Learning+Something+New!;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;My+name+Maulana;Always+Learning+Something+New!;" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
