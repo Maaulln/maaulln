@@ -11,10 +11,11 @@ I'm a passionate developer from the beautiful city of Malang, East Java, Indones
 ```javascript
 const maaulln = {
     location: "Malang, East Java, Indonesia 🇮🇩",
-    currentFocus: "Building amazing projects",
-    interests: ["Web Development", "Mobile Apps", "Open Source"],
-    goal: "To make technology accessible and impactful",
-    funFact: "I code better with a cup of coffee ☕"
+    currentFocus: "Full-stack development with Next.js",
+    techStack: ["Python", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS"],
+    interests: ["Web Development", "Frontend Engineering", "Open Source"],
+    goal: "To build scalable and beautiful web applications",
+    funFact: "I prefer TypeScript over JavaScript for better code quality ✨"
 };
 ```
 
@@ -23,17 +24,17 @@ const maaulln = {
 <div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,24 +66,83 @@ const maaulln = {
 
 ## 🔥 Current Projects
 
-- 🌐 **Portfolio Website** - Building my personal portfolio with React
-- 📱 **Mobile App** - Developing a local community app for Malang
-- 🤖 **Open Source Contributions** - Contributing to various projects
-- 📚 **Learning Journey** - Exploring cloud technologies and DevOps
+- 🌐 **E-commerce Platform** - Building with Next.js and TypeScript
+- 🎨 **Component Library** - Creating reusable React components with Tailwind
+- 🐍 **Python API** - Developing RESTful APIs for web applications
+- 📈 **Dashboard Analytics** - React-based admin dashboard
 
 ## 🌟 What I'm Up To
 
-- 🔭 Currently working on **web development projects**
-- 🌱 Learning **React Native** and **Cloud Computing**
-- 👯 Looking to collaborate on **open source projects**
-- 🤔 Seeking help with **system design** and **scalability**
-- 💬 Ask me about **JavaScript, Python, or anything tech-related**
-- ⚡ Fun fact: **I can debug code faster while listening to lo-fi music 🎵**
+- 🔭 Currently working on **Next.js and React projects**
+- 🌱 Learning **Advanced TypeScript** and **Python frameworks**
+- 👯 Looking to collaborate on **full-stack web applications**
+- 🤔 Seeking help with **backend architecture** and **database optimization**
+- 💬 Ask me about **React, Next.js, TypeScript, or Python**
+- ⚡ Fun fact: **I write cleaner code with Tailwind CSS than vanilla CSS 🎨**
 
 ## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaulln&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+## 🎮 Interactive Games
+
+<div align="center">
+
+### 🐍 Snake Game - Eat My Contributions!
+![Snake Game](https://github.com/Maaulln/Maaulln/blob/output/github-contribution-grid-snake.svg)
+
+### 🏆 GitHub Battle Arena
+Want to challenge me? Let's see who has better GitHub stats!
+
+[![GitHub Battle](https://img.shields.io/badge/⚔️-Challenge%20Me-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](http://githubbattle.com/Maaulln)
+
+### 🎯 Guess My Next Commit
+<details>
+<summary>🔮 Click to reveal the mystery!</summary>
+
+```
+🎲 Will my next commit be:
+[ ] 🐛 Bug fix
+[ ] ✨ New feature  
+[ ] 📚 Documentation
+[ ] 🎨 Code styling
+[ ] 🚀 Performance improvement
+
+Hint: It's probably something with TypeScript! 😄
+```
+</details>
+
+### 🎲 Random Developer Joke
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
+</div>
+
+### 🧠 Code Quiz Challenge
+<details>
+<summary>🤔 Think you know TypeScript? Try this!</summary>
+
+```typescript
+// What will this output?
+const mystery = [1, 2, 3].map(x => x * 2).filter(x => x > 3);
+console.log(mystery);
+
+// A) [2, 4, 6]
+// B) [4, 6] 
+// C) [6]
+// D) Error
+
+// Click here for answer: It's B! [4, 6] 🎉
+```
+</details>
+
+### 🎪 Fun Interactive Badges
+[![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaaulln&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![GitHub Followers](https://img.shields.io/github/followers/Maaulln?label=Follow&style=social)](https://github.com/Maaulln)
+[![Years Badge](https://badges.pufler.dev/years/Maaulln?style=flat-square&color=blue&logo=github)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Maaulln?style=flat-square&color=green&logo=github)](https://badges.pufler.dev)
+
 </div>
 
 ## 🤝 Let's Connect!
