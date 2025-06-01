@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;My+name+Maulana;Always+Learning+Something+New!;" alt="Typing SVG" />
 </div>
 
+
+
 ## 🚀 About Me
 
 I'm a passionate developer from the beautiful city of Malang, East Java, Indonesia! I love creating innovative solutions and exploring new technologies. Always eager to learn, collaborate, and contribute to the open-source community.
@@ -50,11 +52,13 @@ const maaulln = {
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maaulln/maaulln/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maaulln/maaulln/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maaulln/maaulln/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
+
+<img src="https://raw.githubusercontent.com/maaulln/maaulln/output/snake.svg" alt="Snake animation" />
 
 ###
 
