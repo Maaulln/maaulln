@@ -45,134 +45,43 @@ const maaulln = {
 </div>
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maaulln&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maaulln&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maaulln&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maaulln&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maaulln/maaulln/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maaulln/maaulln/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maaulln/maaulln/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaulln&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://www.instagram.com/maaulln/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://discord.com/users/641042381533085737" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
-## 🏆 GitHub Trophies
+###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maaulln&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+<img align="right" height="170" src="https://media.giphy.com/media/lw6H7vUDxeyB4UQDV5/giphy.gif?cid=ecf05e47aaoc2h6rgl4pliqpr558xhy5c9j0ijx0eulcbtf7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/tsw0k3hjio5zg3s7rls5p5y4g">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tsw0k3hjio5zg3s7rls5p5y4g&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
-## 🔥 Current Projects
-
-- 🌐 **E-commerce Platform** - Building with Next.js and TypeScript
-- 🎨 **Component Library** - Creating reusable React components with Tailwind
-- 🐍 **Python API** - Developing RESTful APIs for web applications
-- 📈 **Dashboard Analytics** - React-based admin dashboard
-
-## 🌟 What I'm Up To
-
-- 🔭 Currently working on **Next.js and React projects**
-- 🌱 Learning **Advanced TypeScript** and **Python frameworks**
-- 👯 Looking to collaborate on **full-stack web applications**
-- 🤔 Seeking help with **backend architecture** and **database optimization**
-- 💬 Ask me about **React, Next.js, TypeScript, or Python**
-- ⚡ Fun fact: **I write cleaner code with Tailwind CSS than vanilla CSS 🎨**
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaulln&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-## 🎮 Interactive Games
-
-<div align="center">
-
-### 🐍 Snake Game - Eat My Contributions!
-![Snake Game](https://github.com/Maaulln/Maaulln/blob/output/github-contribution-grid-snake.svg)
-
-### 🏆 GitHub Battle Arena
-Want to challenge me? Let's see who has better GitHub stats!
-
-[![GitHub Battle](https://img.shields.io/badge/⚔️-Challenge%20Me-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](http://githubbattle.com/Maaulln)
-
-### 🎯 Guess My Next Commit
-<details>
-<summary>🔮 Click to reveal the mystery!</summary>
-
-```
-🎲 Will my next commit be:
-[ ] 🐛 Bug fix
-[ ] ✨ New feature  
-[ ] 📚 Documentation
-[ ] 🎨 Code styling
-[ ] 🚀 Performance improvement
-
-Hint: It's probably something with TypeScript! 😄
-```
-</details>
-
-### 🎲 Random Developer Joke
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
-</div>
-
-### 🧠 Code Quiz Challenge
-<details>
-<summary>🤔 Think you know TypeScript? Try this!</summary>
-
-```typescript
-// What will this output?
-const mystery = [1, 2, 3].map(x => x * 2).filter(x => x > 3);
-console.log(mystery);
-
-// A) [2, 4, 6]
-// B) [4, 6] 
-// C) [6]
-// D) Error
-
-// Click here for answer: It's B! [4, 6] 🎉
-```
-</details>
-
-### 🎪 Fun Interactive Badges
-[![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaaulln&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![GitHub Followers](https://img.shields.io/github/followers/Maaulln?label=Follow&style=social)](https://github.com/Maaulln)
-[![Years Badge](https://badges.pufler.dev/years/Maaulln?style=flat-square&color=blue&logo=github)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Maaulln?style=flat-square&color=green&logo=github)](https://badges.pufler.dev)
-
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
-</div>
-
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maaulln&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-  **Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!**
-  
-  Made with ❤️ from Malang, Indonesia
-  
-</div>
+###
