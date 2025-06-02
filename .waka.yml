@@ -3,6 +3,11 @@ api_key: ${{ secrets.WAKATIME_API_KEY }}
 # Jumlah bahasa yang akan ditampilkan (opsional)
 max_languages: 3
 
+show_languages:
+  - Python
+  - Javascript
+  - SQL
+  
 # Opsi lainnya
 commit_message: "Update WakaTime stats"
 show_time: true
