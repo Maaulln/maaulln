@@ -50,20 +50,10 @@ const maaulln = {
 
 <!--START_SECTION:waka-->
 
-```txt
-Markdown   23 mins         ██████████████████████░░░   87.60 %
-YAML       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-```
-
 <!--END_SECTION:waka-->
 
 ###
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maaulln/maaulln/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maaulln/maaulln/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maaulln/maaulln/output/pacman-contribution-graph.svg">
-</picture> -->
 
 <img src="https://raw.githubusercontent.com/maaulln/maaulln/output/snake.svg" alt="Snake animation" />
 
