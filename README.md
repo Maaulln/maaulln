@@ -11,11 +11,10 @@ I'm a passionate developer from the beautiful city of Malang, East Java, Indones
 ```javascript
 const maaulln = {
     location: "Malang, East Java, Indonesia 🇮🇩",
-    currentFocus: "Full-stack development with Next.js",
+    currentFocus: "Machine Learning Engineering",
     techStack: ["Python", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS"],
-    interests: ["Web Development", "Frontend Engineering", "Open Source"],
-    goal: "To build scalable and beautiful web applications",
-    funFact: "I prefer TypeScript over JavaScript for better code quality ✨"
+    interests: ["Web Development", "Frontend Engineering", "Machine Learning"],
+    funFact: "nasi goreng enak"
 };
 ```
 
@@ -34,7 +33,6 @@ const maaulln = {
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
