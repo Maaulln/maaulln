@@ -1,0 +1,9 @@
+api_key: ${{ secrets.WAKATIME_API_KEY }}
+
+# Jumlah bahasa yang akan ditampilkan (opsional)
+max_languages: 3
+
+# Opsi lainnya
+commit_message: "Update WakaTime stats"
+show_time: true
+show_total: true
