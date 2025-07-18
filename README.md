@@ -52,11 +52,9 @@ const maaulln = {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 hrs 19 mins  █████████████████████▓░░░   86.65 %
-JavaScript   1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JavaScript   1 hr 24 mins    █████████████▓░░░░░░░░░░░   54.26 %
+TypeScript   1 hr 2 mins     ██████████░░░░░░░░░░░░░░░   40.61 %
+Other        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
 ```
 
 <!--END_SECTION:waka-->
