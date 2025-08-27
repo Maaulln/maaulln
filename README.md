@@ -52,9 +52,10 @@ const maaulln = {
 <!--START_SECTION:waka-->
 
 ```txt
-Python   3 hrs 47 mins   ███████████████████▓░░░░░   79.11 %
-Java     52 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
-CSV      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Python               4 hrs 39 mins   ████████████████████▓░░░░   82.87 %
+Java                 47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+CSV                  9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+JSON with Comments   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
